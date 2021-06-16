@@ -165,6 +165,10 @@ footer p {
     flex-wrap: wrap;
     flex-direction: row;
   }
+  #ideas .imgRow {
+    display: flex;
+    flex-direction: row;
+  }
 
   #ideas div {
     display: flex;
